@@ -1,2 +1,2 @@
 sudo chmod 757 /var/run/rstudio-server/rstudio-rserver
-sudo chmod 777 /var/run/rstudio-server/rstudio-rserverr/session-server-rpc.socket
+sudo chmod 777 /var/run/rstudio-server/rstudio-rserver/session-server-rpc.socket
